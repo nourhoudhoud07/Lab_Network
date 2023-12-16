@@ -8,11 +8,6 @@ This is a simple TFTP client implemented in C that supports file upload (`puttft
 - **gettftp:** Download a file from the TFTP server.
 - **puttftp:** Upload a file to the TFTP server.
 
-## Prerequisites
-
-- C compiler (e.g., gcc)
-- Unix-like environment (Linux, macOS)
-
 ## How to Use
 
 1. **Compile the Code:**
